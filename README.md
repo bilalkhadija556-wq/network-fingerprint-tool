@@ -46,3 +46,18 @@ A web-based tool that captures live network traffic and generates behavioral fin
 ```bash
 git clone https://github.com/bilalkhadija556/network-fingerprint-tool.git
 cd network-fingerprint-tool
+## 🎥 Video Demonstration
+
+Click the link below to watch the complete demonstration of this project:
+
+**👉 [Watch the Demonstration Video](https://drive.google.com/file/d/1Ttj5gLyTAKXVoYAhAA-wPU14jn5ODFfQ/view?usp=sharing)**
+
+### What the video shows:
+
+- Starting the Flask server and opening the web interface
+- Analyzing **google.com** → Static Content (85% confidence)
+- Analyzing **youtube.com** → Streaming (92% confidence)
+- Protocol Distribution Pie Chart
+- Packet Size Histogram
+- Traffic Timeline Graph
+- Side-by-side comparison of two websites
